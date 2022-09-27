@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo1",
+            "request": "launch",
+            "mainClass": "Algo1",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo2",
+            "request": "launch",
+            "mainClass": "Algo2",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo3",
+            "request": "launch",
+            "mainClass": "Algo3",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo4",
+            "request": "launch",
+            "mainClass": "Algo4",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo5",
+            "request": "launch",
+            "mainClass": "Algo5",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo6",
+            "request": "launch",
+            "mainClass": "Algo6",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo7",
+            "request": "launch",
+            "mainClass": "Algo7",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo8",
+            "request": "launch",
+            "mainClass": "Algo8",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Proyecto",
+            "request": "launch",
+            "mainClass": "Proyecto",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch miriam7",
+            "request": "launch",
+            "mainClass": "miriam7",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac_If",
+            "request": "launch",
+            "mainClass": "pracs.Prac_If",
+            "projectName": "MyClass_b5d2b504"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac_Switch",
+            "request": "launch",
+            "mainClass": "pracs.Prac_Switch",
+            "projectName": "MyClass_b5d2b504"
+        }
+    ]
+}
